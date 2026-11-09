@@ -7,19 +7,19 @@ import img5 from "../assets/images/img5.jpg";
 export const story = [
   {
     image: img1,
-    text: "Hiiii Goluuuu, Just wanted to tell you somethingggg...",
+    text: "Hiiii bubusuaras, Just wanted to tell you somethingggg...",
   },
   {
     image: img2,
-    text: "Do you remember this picture? Our first picture that you took ✨",
+    text: "Do you remember this picture? Our date picture that I took ✨",
   },
   {
     image: img3,
-    text: "Our first trip as a hackathon... 🥺",
+    text: "Our first meeting with DIDI... 🥺",
   },
   {
     image: img4,
-    text: "A day full of enjoyymenttt 😌",
+    text: "A day full of enjoyymenttt in Sarijni and I gave you a promise ring 💕💕",
   },
   {
     image: img5,
